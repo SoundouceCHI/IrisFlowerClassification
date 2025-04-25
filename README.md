@@ -42,12 +42,12 @@ For multi-class problems, it is broken down into multiple binary classifications
   - Class 1 vs Class 3
   - Class 2 vs Class 3
 
-## 🚀 Goal
+## Goal
 Train a model that can accurately classify new iris flower observations into their correct species!
 
 ---
 
-## 📎 Requirements
+## Requirements
 - Python 3.x
 - scikit-learn
 - pandas helps to load data 
